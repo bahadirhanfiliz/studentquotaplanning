@@ -1,10 +1,10 @@
-# studentquotaplanning
+# Student Quota Planning Statistical Analysis Application
 A web application developed using R Shiny package in order to do statistical analysis to quota planning for Koc University Istanbul, Turkey
 
 ## URL
 https://bahadirhanfiliz.shinyapps.io/vpaa-quota-planning/
 
-username: 'username'
+username: 'username' \n
 password: 'password'
 
 ## Sample Screenshots 
