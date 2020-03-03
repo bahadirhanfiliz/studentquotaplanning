@@ -4,7 +4,7 @@ A web application developed using R Shiny package in order to do statistical ana
 ## URL
 https://bahadirhanfiliz.shinyapps.io/vpaa-quota-planning/
 
-username: 'username' \n
+username: 'username'.
 password: 'password'
 
 ## Sample Screenshots 
